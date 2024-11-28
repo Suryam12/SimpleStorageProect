@@ -1,1 +1,1 @@
-# SimpleStorageProect
+# SimpleStorageProject
